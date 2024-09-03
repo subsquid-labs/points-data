@@ -8,6 +8,8 @@ Initial steps:
 
 Most squids will not resume on halt, must be run all at once (~10 min).
 
+Some may fail due to needing extra input files that are private.
+
 ## IceCreamSwap
 
 1. `node lib/icecreamswap/pools.js`
