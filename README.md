@@ -1,4 +1,4 @@
-# Squids that gathered the data for SQD airdrop
+# Squids that gathered data for the SQD airdrop
 
 Initial steps:
 
