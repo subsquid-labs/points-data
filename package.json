@@ -1,0 +1,19 @@
+{
+  "name": "squid-evm-template",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf lib && tsc"
+  },
+  "dependencies": {
+    "@subsquid/evm-processor": "^1.18.0",
+    "@subsquid/file-store-csv": "^1.2.1",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@subsquid/evm-typegen": "^3.3.0",
+    "@subsquid/file-store": "^2.0.0",
+    "@types/node": "^20.12.7",
+    "typescript": "~5.4.5"
+  }
+}
